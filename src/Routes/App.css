@@ -1,0 +1,31 @@
+.app-container{
+    display: flex;
+}
+.content{
+    width: 100%;
+}
+.sidebar-app{
+min-height: 660px;
+}
+.post-card{
+    margin: 20px 50px;
+
+}
+.hastag{
+    margin: 0px 3px;
+}
+.Reaction{
+    margin: 10px 0px 0px;
+}
+.crate-post{
+    width: 80%;
+    padding-left: 50px;
+    margin-top: 60px;
+}
+.tags{
+    margin: 100px;
+}
+.loader{
+
+    margin: 10% 0;
+}
